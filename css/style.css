@@ -1,12 +1,57 @@
-body{
-    /*  */
-    background-image: url('C:\Users\Gabi Sam\OneDrive\Documentos\Estudos Gabi\Curso Informática\PC2\Atividades\Site-tecnologias\Image')
-    /* background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover; */
+*{
+    /* box-sizing: border-box; */
+
 }
 
-.title
-{
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+body{
+    padding: 50px 200px 50px 200px;
+    background-color: #1e202c;
+    color: #cfcfd6; /*texto*/
+    font-size: 20px;
     
+}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+}
+
+.textoCentral{
+    text-align: center;
+}
+
+hr{
+    width: 80%;
+    margin: 20px auto;
+}
+
+a{
+    color: #cfcfd6;         
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(255, 178, 133);
+}
+
+.containerCentral{
+    /* background-color: #9c9fb3; */
+    padding: 30px 30px 30px 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.containerCentral img{
+    
+    width: 150px
+}
+
+.rodape{
+    text-align: center;
+    padding: 10px 10px 40px 10px;
 }
