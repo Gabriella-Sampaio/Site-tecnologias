@@ -1,20 +1,13 @@
-
-*{
-    /* box-sizing: border-box; */
-
-}
-
 h1{
     font-size: 40px;
     text-align: center;
 }
 
 body{
-    padding: 50px 200px 50px 200px;
+    padding: 50px 10% 50px 10%;
     background-color: #1e202c;
     color: #cfcfd6; /*texto*/
     font-size: 20px;
-    
 }
 
 p{
@@ -40,6 +33,10 @@ a:hover{
     color: rgb(255, 178, 133);
 }
 
+.aInicio{
+    font-size: 26px;
+}
+
 .containerCentral{
     /* background-color: #9c9fb3; */
     padding: 30px 30px 30px 30px;
@@ -56,3 +53,9 @@ a:hover{
     text-align: center;
     padding: 10px 10px 40px 10px;
  }
+
+ .imgContainer{
+    padding: 0px 5% 0px 5%;
+ }
+
+
