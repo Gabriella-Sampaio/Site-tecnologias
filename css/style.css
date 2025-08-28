@@ -39,7 +39,7 @@ a:hover{
 
 .containerCentral{
     /* background-color: #9c9fb3; */
-    padding: 30px 30px 30px 30px;
+    padding: 30px 10% 30px 10%;
     display: flex;
     justify-content: center;
 }
